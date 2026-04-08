@@ -26,7 +26,7 @@
 #include "devices.h"
 
 // System-wide firmware directory
-#define SYSTEM_FIRMWARE_DIR "/usr/lib/firmware/scarlett4"
+#define SYSTEM_FIRMWARE_DIR "/run/current-system/sw/share/firmware/scarlett4"
 
 #include "data-cmd.h"
 
